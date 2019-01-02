@@ -1,0 +1,3 @@
+#!/usr/bin/rarun2
+program=./badchars32
+stdin=!python exp.py

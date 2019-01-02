@@ -1,0 +1,3 @@
+#!/usr/bin/rarun2
+program=./split32
+stdin=!python exp.py

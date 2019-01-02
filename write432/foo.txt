@@ -1,0 +1,9 @@
+write4 by ROP Emporium
+32bits
+
+Go ahead and give me the string already!
+> exp.py
+flag.txt
+foo.txt
+temp.rr2
+write432

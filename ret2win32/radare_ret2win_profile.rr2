@@ -1,0 +1,3 @@
+#!/usr/bin/rarun2
+program=./ret2win32
+stdin=!python exp.py

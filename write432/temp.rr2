@@ -1,0 +1,5 @@
+#!/usr/bin/rarun2
+program=./write432
+stdin=!python exp.py
+#stdout=foo.txt
+
